@@ -1,0 +1,7 @@
+E:\ITMO course\Выполненные задания по практической части\Lab3_2\Lab3_2_4\bin\Debug\Lab3_2_4.exe.config
+E:\ITMO course\Выполненные задания по практической части\Lab3_2\Lab3_2_4\bin\Debug\Lab3_2_4.exe
+E:\ITMO course\Выполненные задания по практической части\Lab3_2\Lab3_2_4\bin\Debug\Lab3_2_4.pdb
+E:\ITMO course\Выполненные задания по практической части\Lab3_2\Lab3_2_4\obj\Debug\Lab3_2_4.csproj.AssemblyReference.cache
+E:\ITMO course\Выполненные задания по практической части\Lab3_2\Lab3_2_4\obj\Debug\Lab3_2_4.csproj.CoreCompileInputs.cache
+E:\ITMO course\Выполненные задания по практической части\Lab3_2\Lab3_2_4\obj\Debug\Lab3_2_4.exe
+E:\ITMO course\Выполненные задания по практической части\Lab3_2\Lab3_2_4\obj\Debug\Lab3_2_4.pdb
