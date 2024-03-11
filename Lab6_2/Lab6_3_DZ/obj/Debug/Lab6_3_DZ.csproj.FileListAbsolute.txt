@@ -1,0 +1,6 @@
+C:\Users\nusse\source\repos\Lab6_2\Lab6_3_DZ\bin\Debug\Lab6_3_DZ.exe.config
+C:\Users\nusse\source\repos\Lab6_2\Lab6_3_DZ\bin\Debug\Lab6_3_DZ.exe
+C:\Users\nusse\source\repos\Lab6_2\Lab6_3_DZ\bin\Debug\Lab6_3_DZ.pdb
+C:\Users\nusse\source\repos\Lab6_2\Lab6_3_DZ\obj\Debug\Lab6_3_DZ.csproj.CoreCompileInputs.cache
+C:\Users\nusse\source\repos\Lab6_2\Lab6_3_DZ\obj\Debug\Lab6_3_DZ.exe
+C:\Users\nusse\source\repos\Lab6_2\Lab6_3_DZ\obj\Debug\Lab6_3_DZ.pdb
