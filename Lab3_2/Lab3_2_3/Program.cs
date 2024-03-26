@@ -86,7 +86,7 @@ namespace Lab3_2_3
             Console.WriteLine(name);
             Console.Write("Нажмите любую клавишу для завершения программы -> ");
          }
-         else { Console.WriteLine("!error: check your age!"); }
+         else { Console.WriteLine("Ошибка. Возраст не входит в диапазон 20-69"); }
          Console.ReadKey();
       }
    }
