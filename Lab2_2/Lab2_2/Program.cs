@@ -11,7 +11,7 @@ namespace Lab2_2
       static void Main(string[] args)
       {
          //1 Zadacha - Дана длина L окружности. Найти ее радиус R и площадь S круга, ограниченного этой окружностью.
-         Console.WriteLine();
+         Console.Write("Введите длину окружности L: ");
          double l = Convert.ToDouble(Console.ReadLine());
          double r = (l / Math.PI) / 2;
          double s = Math.Pow(l, 2) / (4 * Math.PI);
