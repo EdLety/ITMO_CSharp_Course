@@ -1,6 +1,0 @@
-C:\Users\nusse\source\repos\Lab_9_Lesson\Lab9_Practic\bin\Debug\Lab9_Practic.exe.config
-C:\Users\nusse\source\repos\Lab_9_Lesson\Lab9_Practic\bin\Debug\Lab9_Practic.exe
-C:\Users\nusse\source\repos\Lab_9_Lesson\Lab9_Practic\bin\Debug\Lab9_Practic.pdb
-C:\Users\nusse\source\repos\Lab_9_Lesson\Lab9_Practic\obj\Debug\Lab9_Practic.csproj.CoreCompileInputs.cache
-C:\Users\nusse\source\repos\Lab_9_Lesson\Lab9_Practic\obj\Debug\Lab9_Practic.exe
-C:\Users\nusse\source\repos\Lab_9_Lesson\Lab9_Practic\obj\Debug\Lab9_Practic.pdb
