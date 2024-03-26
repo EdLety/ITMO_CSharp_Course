@@ -1,0 +1,7 @@
+C:\Users\nuss.ea\source\repos\Lab15\Lab15_HW\bin\Debug\Lab15_HW.exe.config
+C:\Users\nuss.ea\source\repos\Lab15\Lab15_HW\bin\Debug\Lab15_HW.exe
+C:\Users\nuss.ea\source\repos\Lab15\Lab15_HW\bin\Debug\Lab15_HW.pdb
+C:\Users\nuss.ea\source\repos\Lab15\Lab15_HW\obj\Debug\Lab15_HW.csproj.AssemblyReference.cache
+C:\Users\nuss.ea\source\repos\Lab15\Lab15_HW\obj\Debug\Lab15_HW.csproj.CoreCompileInputs.cache
+C:\Users\nuss.ea\source\repos\Lab15\Lab15_HW\obj\Debug\Lab15_HW.exe
+C:\Users\nuss.ea\source\repos\Lab15\Lab15_HW\obj\Debug\Lab15_HW.pdb

@@ -1,0 +1,7 @@
+C:\Users\nusse\source\repos\Lab20_HW\Lab20_HW\obj\Debug\Lab20_HW.csproj.AssemblyReference.cache
+C:\Users\nusse\source\repos\Lab20_HW\Lab20_HW\obj\Debug\Lab20_HW.csproj.CoreCompileInputs.cache
+C:\Users\nusse\source\repos\Lab20_HW\Lab20_HW\bin\Debug\Lab20_HW.exe.config
+C:\Users\nusse\source\repos\Lab20_HW\Lab20_HW\bin\Debug\Lab20_HW.exe
+C:\Users\nusse\source\repos\Lab20_HW\Lab20_HW\bin\Debug\Lab20_HW.pdb
+C:\Users\nusse\source\repos\Lab20_HW\Lab20_HW\obj\Debug\Lab20_HW.exe
+C:\Users\nusse\source\repos\Lab20_HW\Lab20_HW\obj\Debug\Lab20_HW.pdb

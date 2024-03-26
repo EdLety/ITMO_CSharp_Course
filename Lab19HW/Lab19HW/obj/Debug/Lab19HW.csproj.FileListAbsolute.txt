@@ -1,0 +1,7 @@
+C:\Users\nusse\source\repos\Lab19HW\Lab19HW\bin\Debug\Lab19HW.exe.config
+C:\Users\nusse\source\repos\Lab19HW\Lab19HW\bin\Debug\Lab19HW.exe
+C:\Users\nusse\source\repos\Lab19HW\Lab19HW\bin\Debug\Lab19HW.pdb
+C:\Users\nusse\source\repos\Lab19HW\Lab19HW\obj\Debug\Lab19HW.csproj.AssemblyReference.cache
+C:\Users\nusse\source\repos\Lab19HW\Lab19HW\obj\Debug\Lab19HW.csproj.CoreCompileInputs.cache
+C:\Users\nusse\source\repos\Lab19HW\Lab19HW\obj\Debug\Lab19HW.exe
+C:\Users\nusse\source\repos\Lab19HW\Lab19HW\obj\Debug\Lab19HW.pdb

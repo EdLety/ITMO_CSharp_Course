@@ -1,0 +1,7 @@
+C:\Users\nuss.ea\source\repos\Lab10_Lesson\Lab10_Lesson\bin\Debug\Lab10_Lesson.exe.config
+C:\Users\nuss.ea\source\repos\Lab10_Lesson\Lab10_Lesson\bin\Debug\Lab10_Lesson.exe
+C:\Users\nuss.ea\source\repos\Lab10_Lesson\Lab10_Lesson\bin\Debug\Lab10_Lesson.pdb
+C:\Users\nuss.ea\source\repos\Lab10_Lesson\Lab10_Lesson\obj\Debug\Lab10_Lesson.csproj.AssemblyReference.cache
+C:\Users\nuss.ea\source\repos\Lab10_Lesson\Lab10_Lesson\obj\Debug\Lab10_Lesson.csproj.CoreCompileInputs.cache
+C:\Users\nuss.ea\source\repos\Lab10_Lesson\Lab10_Lesson\obj\Debug\Lab10_Lesson.exe
+C:\Users\nuss.ea\source\repos\Lab10_Lesson\Lab10_Lesson\obj\Debug\Lab10_Lesson.pdb

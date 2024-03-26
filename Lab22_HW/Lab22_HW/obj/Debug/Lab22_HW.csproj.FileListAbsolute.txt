@@ -1,0 +1,7 @@
+C:\Users\nusse\source\repos\Lab22_HW\Lab22_HW\bin\Debug\Lab22_HW.exe.config
+C:\Users\nusse\source\repos\Lab22_HW\Lab22_HW\bin\Debug\Lab22_HW.exe
+C:\Users\nusse\source\repos\Lab22_HW\Lab22_HW\bin\Debug\Lab22_HW.pdb
+C:\Users\nusse\source\repos\Lab22_HW\Lab22_HW\obj\Debug\Lab22_HW.csproj.AssemblyReference.cache
+C:\Users\nusse\source\repos\Lab22_HW\Lab22_HW\obj\Debug\Lab22_HW.csproj.CoreCompileInputs.cache
+C:\Users\nusse\source\repos\Lab22_HW\Lab22_HW\obj\Debug\Lab22_HW.exe
+C:\Users\nusse\source\repos\Lab22_HW\Lab22_HW\obj\Debug\Lab22_HW.pdb

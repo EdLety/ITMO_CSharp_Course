@@ -1,0 +1,7 @@
+C:\Users\nuss.ea\source\repos\Lab14_HW\Lab14_Practice\bin\Debug\Lab14_Practice.exe.config
+C:\Users\nuss.ea\source\repos\Lab14_HW\Lab14_Practice\bin\Debug\Lab14_Practice.exe
+C:\Users\nuss.ea\source\repos\Lab14_HW\Lab14_Practice\bin\Debug\Lab14_Practice.pdb
+C:\Users\nuss.ea\source\repos\Lab14_HW\Lab14_Practice\obj\Debug\Lab14_Practice.csproj.AssemblyReference.cache
+C:\Users\nuss.ea\source\repos\Lab14_HW\Lab14_Practice\obj\Debug\Lab14_Practice.csproj.CoreCompileInputs.cache
+C:\Users\nuss.ea\source\repos\Lab14_HW\Lab14_Practice\obj\Debug\Lab14_Practice.exe
+C:\Users\nuss.ea\source\repos\Lab14_HW\Lab14_Practice\obj\Debug\Lab14_Practice.pdb

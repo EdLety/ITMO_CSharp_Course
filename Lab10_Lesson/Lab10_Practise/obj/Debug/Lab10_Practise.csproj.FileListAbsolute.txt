@@ -1,0 +1,7 @@
+C:\Users\nuss.ea\source\repos\Lab10_Lesson\Lab10_Practise\bin\Debug\Lab10_Practise.exe.config
+C:\Users\nuss.ea\source\repos\Lab10_Lesson\Lab10_Practise\bin\Debug\Lab10_Practise.exe
+C:\Users\nuss.ea\source\repos\Lab10_Lesson\Lab10_Practise\bin\Debug\Lab10_Practise.pdb
+C:\Users\nuss.ea\source\repos\Lab10_Lesson\Lab10_Practise\obj\Debug\Lab10_Practise.csproj.AssemblyReference.cache
+C:\Users\nuss.ea\source\repos\Lab10_Lesson\Lab10_Practise\obj\Debug\Lab10_Practise.csproj.CoreCompileInputs.cache
+C:\Users\nuss.ea\source\repos\Lab10_Lesson\Lab10_Practise\obj\Debug\Lab10_Practise.exe
+C:\Users\nuss.ea\source\repos\Lab10_Lesson\Lab10_Practise\obj\Debug\Lab10_Practise.pdb
