@@ -10,16 +10,18 @@ class Calculator
    {
       try
       {
-         Console.WriteLine("Введите первое число:");
+         Console.WriteLine("Вас приветствует калькулятор!");
+         Console.Write("Введите целое число. X = ");
          double num1 = double.Parse(Console.ReadLine());
 
-         Console.WriteLine("Введите второе число:");
+         Console.Write("Введите целое число. Y = ");
          double num2 = double.Parse(Console.ReadLine());
-         Console.WriteLine("Выберите операцию:");
+         Console.WriteLine("Введите код операции:");
          Console.WriteLine("\t1 - сложение");
          Console.WriteLine("\t2 - вычитание");
          Console.WriteLine("\t3 - произведение");
          Console.WriteLine("\t4 - частное");
+         Console.Write($"Ваш выбор: ");
          int operation = Convert.ToInt32(Console.ReadLine());
          double result = 0;
          switch (operation)
@@ -41,14 +43,14 @@ class Calculator
                result = num1 / num2;
                break;
             default:
-               throw new ArgumentException("Некорректный код операции.");
+               throw new ArgumentException("Нет операции с указанным номером.");
          }
 
          Console.WriteLine("Результат: " + result);
       }
       catch (FormatException)
       {
-         Console.WriteLine("Ошибка: Введите корректное число.");
+         Console.WriteLine("Ошибка: Входная строка имела неверный формат.");
       }
       catch (DivideByZeroException ex)
       {
