@@ -1,0 +1,7 @@
+C:\Users\nuss.ea\source\repos\Lab13_HW\Lab13_HW\bin\Debug\Lab13_HW.exe.config
+C:\Users\nuss.ea\source\repos\Lab13_HW\Lab13_HW\bin\Debug\Lab13_HW.exe
+C:\Users\nuss.ea\source\repos\Lab13_HW\Lab13_HW\bin\Debug\Lab13_HW.pdb
+C:\Users\nuss.ea\source\repos\Lab13_HW\Lab13_HW\obj\Debug\Lab13_HW.csproj.AssemblyReference.cache
+C:\Users\nuss.ea\source\repos\Lab13_HW\Lab13_HW\obj\Debug\Lab13_HW.csproj.CoreCompileInputs.cache
+C:\Users\nuss.ea\source\repos\Lab13_HW\Lab13_HW\obj\Debug\Lab13_HW.exe
+C:\Users\nuss.ea\source\repos\Lab13_HW\Lab13_HW\obj\Debug\Lab13_HW.pdb
