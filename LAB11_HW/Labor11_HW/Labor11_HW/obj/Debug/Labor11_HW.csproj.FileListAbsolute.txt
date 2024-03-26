@@ -1,0 +1,10 @@
+C:\Users\nuss.ea\source\repos\LAB11_HW\Labor11_HW\Labor11_HW\bin\Debug\Labor11_HW.exe.config
+C:\Users\nuss.ea\source\repos\LAB11_HW\Labor11_HW\Labor11_HW\bin\Debug\Labor11_HW.exe
+C:\Users\nuss.ea\source\repos\LAB11_HW\Labor11_HW\Labor11_HW\bin\Debug\Labor11_HW.pdb
+C:\Users\nuss.ea\source\repos\LAB11_HW\Labor11_HW\Labor11_HW\bin\Debug\ClassLibrary1.dll
+C:\Users\nuss.ea\source\repos\LAB11_HW\Labor11_HW\Labor11_HW\bin\Debug\ClassLibrary1.pdb
+C:\Users\nuss.ea\source\repos\LAB11_HW\Labor11_HW\Labor11_HW\obj\Debug\Labor11_HW.csproj.AssemblyReference.cache
+C:\Users\nuss.ea\source\repos\LAB11_HW\Labor11_HW\Labor11_HW\obj\Debug\Labor11_HW.csproj.CoreCompileInputs.cache
+C:\Users\nuss.ea\source\repos\LAB11_HW\Labor11_HW\Labor11_HW\obj\Debug\Labor11_HW.csproj.CopyComplete
+C:\Users\nuss.ea\source\repos\LAB11_HW\Labor11_HW\Labor11_HW\obj\Debug\Labor11_HW.exe
+C:\Users\nuss.ea\source\repos\LAB11_HW\Labor11_HW\Labor11_HW\obj\Debug\Labor11_HW.pdb
