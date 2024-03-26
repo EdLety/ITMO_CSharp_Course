@@ -1,0 +1,7 @@
+C:\Users\nuss.ea\source\repos\Lab7_1\Lab7_1\bin\Debug\Lab7_1.exe.config
+C:\Users\nuss.ea\source\repos\Lab7_1\Lab7_1\bin\Debug\Lab7_1.exe
+C:\Users\nuss.ea\source\repos\Lab7_1\Lab7_1\bin\Debug\Lab7_1.pdb
+C:\Users\nuss.ea\source\repos\Lab7_1\Lab7_1\obj\Debug\Lab7_1.csproj.AssemblyReference.cache
+C:\Users\nuss.ea\source\repos\Lab7_1\Lab7_1\obj\Debug\Lab7_1.csproj.CoreCompileInputs.cache
+C:\Users\nuss.ea\source\repos\Lab7_1\Lab7_1\obj\Debug\Lab7_1.exe
+C:\Users\nuss.ea\source\repos\Lab7_1\Lab7_1\obj\Debug\Lab7_1.pdb
