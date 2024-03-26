@@ -11,7 +11,10 @@ namespace Labor11_HW
    {
       static void Main(string[] args)
       {
+         Console.WriteLine("Решение линейного уравнения 0=kx+b");
+         Console.Write("Введите число k: ");
          double k = Convert.ToDouble(Console.ReadLine());
+         Console.Write("Введите число b: ");
          double b = Convert.ToDouble(Console.ReadLine());
          LineEq lineEq = new LineEq(k, b);
          Console.WriteLine(lineEq.Root());
