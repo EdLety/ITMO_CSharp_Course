@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppLab18", "AppLab18\AppLab18.csproj", "{FB24990B-EB77-4800-AA27-8DB4F4DF237C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab18_HW", "Lab17_HW\Lab18_HW.csproj", "{47C7A6F0-39A1-471E-9215-94ED90DFCAE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB24990B-EB77-4800-AA27-8DB4F4DF237C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB24990B-EB77-4800-AA27-8DB4F4DF237C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB24990B-EB77-4800-AA27-8DB4F4DF237C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB24990B-EB77-4800-AA27-8DB4F4DF237C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47C7A6F0-39A1-471E-9215-94ED90DFCAE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C7A6F0-39A1-471E-9215-94ED90DFCAE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C7A6F0-39A1-471E-9215-94ED90DFCAE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C7A6F0-39A1-471E-9215-94ED90DFCAE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF28CE7E-65BD-4834-AF63-DA731121B324}
+	EndGlobalSection
+EndGlobal
