@@ -1,0 +1,7 @@
+C:\Users\nuss.ea\Pictures\ITMO_CSharp_Course\Lab5_HW\Lab5_HW\bin\Debug\Lab5_HW.exe.config
+C:\Users\nuss.ea\Pictures\ITMO_CSharp_Course\Lab5_HW\Lab5_HW\bin\Debug\Lab5_HW.exe
+C:\Users\nuss.ea\Pictures\ITMO_CSharp_Course\Lab5_HW\Lab5_HW\bin\Debug\Lab5_HW.pdb
+C:\Users\nuss.ea\Pictures\ITMO_CSharp_Course\Lab5_HW\Lab5_HW\obj\Debug\Lab5_HW.csproj.AssemblyReference.cache
+C:\Users\nuss.ea\Pictures\ITMO_CSharp_Course\Lab5_HW\Lab5_HW\obj\Debug\Lab5_HW.csproj.CoreCompileInputs.cache
+C:\Users\nuss.ea\Pictures\ITMO_CSharp_Course\Lab5_HW\Lab5_HW\obj\Debug\Lab5_HW.exe
+C:\Users\nuss.ea\Pictures\ITMO_CSharp_Course\Lab5_HW\Lab5_HW\obj\Debug\Lab5_HW.pdb
