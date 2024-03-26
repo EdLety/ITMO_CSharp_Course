@@ -1,0 +1,7 @@
+C:\Users\nusse\source\repos\Lab_9_Lesson\Lab_9_Lesson\bin\Debug\Lab_9_Lesson.exe.config
+C:\Users\nusse\source\repos\Lab_9_Lesson\Lab_9_Lesson\bin\Debug\Lab_9_Lesson.exe
+C:\Users\nusse\source\repos\Lab_9_Lesson\Lab_9_Lesson\bin\Debug\Lab_9_Lesson.pdb
+C:\Users\nusse\source\repos\Lab_9_Lesson\Lab_9_Lesson\obj\Debug\Lab_9_Lesson.csproj.AssemblyReference.cache
+C:\Users\nusse\source\repos\Lab_9_Lesson\Lab_9_Lesson\obj\Debug\Lab_9_Lesson.csproj.CoreCompileInputs.cache
+C:\Users\nusse\source\repos\Lab_9_Lesson\Lab_9_Lesson\obj\Debug\Lab_9_Lesson.exe
+C:\Users\nusse\source\repos\Lab_9_Lesson\Lab_9_Lesson\obj\Debug\Lab_9_Lesson.pdb
